@@ -4,7 +4,7 @@ Atualmente estou trabalhando com back-end e especializando nisso, mas estou semp
 
 
 <div align="center">
-  <a href="https://github.com/DaviItagiba">
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
