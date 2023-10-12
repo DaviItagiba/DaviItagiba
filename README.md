@@ -1,11 +1,12 @@
-## Opa tudo bem? Me chamo Davi, e espero que quem esteja lendo isso tenha um ótimo dia... ##
 
-Atualmente estou trabalhando com back-end e especializando nisso, mas estou sempre estudando sobre outras áreas...
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi Itagiba</h1>
 
+- Junior Web Developer
 
-<div align="center">
+- I know about **JavaScript, HTML, CSS, SQL, Node.JS, Typescript**
 
-</div>
+- Always happy to learn new things
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
